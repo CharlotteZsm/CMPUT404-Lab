@@ -1,2 +1,2 @@
 import requests
-print(requests.get("http://www.google.com"))
+print(requests.get("https://raw.githubusercontent.com/CharlotteZsm/CMPUT404-Lab/master/test.py"))
